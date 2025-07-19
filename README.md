@@ -19,6 +19,10 @@ From CI/CD pipelines to Kubernetes clusters, I solve real-world problems with cl
 - **Containers & Orchestration**  
   `Docker` · `Kubernetes`
 
+- **Programming & Scripting**  
+  `Python` · `Bash`  
+  From automation scripts to backend APIs — I write clean, maintainable Python code to power DevOps workflows and custom tooling.
+
 - **Development & Deployment Tools**  
   `Artifactory` · `GitPod`
 
@@ -39,6 +43,7 @@ Each tool I work with has its own folder and examples within the DevOps Tooling 
 - `jenkins` / `gitlab` / `github` – CI/CD pipelines and automation
 - `kubernetes` – cluster configs and deployment manifests
 - `mysql` / `postgresql` / `oracledb` – DB setup and scripts
+- `python` – automation tools, scripts, and projects  
 - ...and more coming soon!
 
 > Everything here is hands-on, real-world stuff — continuously updated.
